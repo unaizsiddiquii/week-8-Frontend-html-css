@@ -28,10 +28,6 @@ body {
 .inner-row article {
   min-height: 60vh;
 }
-.inner-row aside {
-  background: beige;
-  flex: 1;
-}
 header,
 footer {
   background: yellowgreen;
